@@ -1,1 +1,5 @@
 
+#titulo{
+display: flex;
+justify-content: center;
+}
